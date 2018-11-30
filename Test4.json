@@ -1,0 +1,16 @@
+[
+  {
+    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_1",
+    "updateDate": "2016-04-10T00:00:00.0Z",
+    "titleText": "Multi Item JSON (TTS)",
+    "mainText": "This channel has multiple TTS JSON items. This is the first item.",
+    "redirectionUrl": "https://www.amazon.com"
+   },
+  {
+    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_2",
+    "updateDate": "2016-04-10T00:00:00.0Z",
+    "titleText": "Multi Item JSON (TTS)",
+    "mainText": "This channel has multiple TTS JSON items. This is the second item.",
+    "redirectionUrl": "https://www.amazon.com"
+  }
+]
